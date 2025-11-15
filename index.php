@@ -24,7 +24,7 @@
             class="search-box d-flex align-items-center justify-content-between p-3 rounded-4 shadow-sm mb-5 bg-white">
             <div class="search-item">
                 <span class="fw-semibold">Dónde</span>
-                <p class="text-muted m-0">Explora destinos</p>
+                <p class="text-muted m-0"></p>
             </div>
 
             <div class="search-item">
