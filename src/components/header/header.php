@@ -10,8 +10,8 @@
             <li class="nav-item"><a class="nav-link" href="./src/pages/servicios.php">Servicios</a></li>
         </ul>
         <div class="d-flex align-items-center gap-2">
-            <a class="btn btn-outline-primary" href="pgFormulario.html">Realiza tu reserva</a>
+            <a class="btn btn-outline-primary" href="./src/pages/reservas.php">Realiza tu reserva</a>
             <button class="btn btn-primary user-btn">👍</button>
         </div>
-    </div>
+    </div>  
 </header>
